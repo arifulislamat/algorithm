@@ -40,3 +40,5 @@ int main(){
     selectionSort(data, arraySize);
     printArray(data, arraySize);
 }
+
+//arifulislamat@gmail.com
