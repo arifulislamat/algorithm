@@ -1,1 +1,2 @@
-# Welcome to my repo. i will add the working procedure soon. keep in touch.
+# Binary vs Linear Search
+<img src="images/Binary vs Linear Search.gif">
