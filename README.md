@@ -1,6 +1,3 @@
-# If you have skype then add me
-# live:arifulislamat-i_1
-
 # Binary vs Linear Search
 <img src="images/Binary vs Linear Search.gif">
 
